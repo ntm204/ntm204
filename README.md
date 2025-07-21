@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tờ Minh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-## 📊 Weekly development breakdown
+## 📊 This week I spent my time on:
 
 <!--START_SECTION:waka-->
 
