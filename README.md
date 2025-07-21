@@ -28,7 +28,7 @@ No activity tracked
 <h3> Languages and Tools </h3> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Tech Stack" />
 </p>
 
 
