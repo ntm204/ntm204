@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <h1 align="center">Hi 👋, I'm Tờ Minh</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam 🇻🇳</h3>
 
@@ -17,9 +19,12 @@ No activity tracked
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **HTS**
-- 🌱 I’m currently learning **Next.js**
-- 📫 Reach me at: **ntm.codes@gmail.com**
+- 📚 I’m currently learning ...
+  - *NextJS*
+  - *TypeScript*
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- 📫 Reach me at: <a href="ntm.codes@gmail.com">ntm.codes@gmail.com</a>
 
 <h3> Languages and Tools </h3> 
 
@@ -33,3 +38,5 @@ No activity tracked
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntm204&show_icons=true&theme=gotham&hide=issues,contribs&count_private=true" alt="ntm204's GitHub Stats" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
