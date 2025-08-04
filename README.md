@@ -14,7 +14,6 @@
 ```txt
 JavaScript   12 hrs 48 mins  ███████████████░░░░░░░░░░   59.92 %
 TypeScript   6 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
