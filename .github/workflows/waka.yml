@@ -4,8 +4,6 @@ on:
   schedule:
     # Cập nhật mỗi 2 tiếng
     - cron: '0 */2 * * *'
-    # Reset đầu tuần: 0h UTC thứ Hai = 7h sáng VN
-    - cron: '0 0 * * MON'
   workflow_dispatch:
 
 jobs:
