@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=ntm204&label=Profile%20views&color=0e75b6&style=flat" alt="ntm204" />
 </p>
 
-## 📊 This week I spent my time on
+## This week I spent my time on
 
 <!--START_SECTION:waka-->
 
@@ -25,9 +25,8 @@ JavaScript   6 hrs 36 mins   █████░░░░░░░░░░░░
   - *TypeScript*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- 📫 Reach me at: <a href="ntm.codes@gmail.com">ntm.codes@gmail.com</a>
 
-<h4> Languages and Tools </h4> 
+<h3> Languages and Tools </h3> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Tech Stack" />
