@@ -27,7 +27,7 @@ JavaScript   6 hrs 36 mins   █████░░░░░░░░░░░░
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - 📫 Reach me at: <a href="ntm.codes@gmail.com">ntm.codes@gmail.com</a>
 
-<h3> Languages and Tools </h3> 
+<h4> Languages and Tools </h4> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Tech Stack" />
