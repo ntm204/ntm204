@@ -33,11 +33,4 @@ JavaScript   6 hrs 36 mins   █████░░░░░░░░░░░░
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Tech Stack" />
 </p>
 
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntm204&show_icons=true&theme=gotham&hide=issues,contribs&count_private=true" alt="ntm204's GitHub Stats" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
