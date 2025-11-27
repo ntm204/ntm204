@@ -11,8 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     19 hrs 38 mins  ████████████████████▒░░░░   81.42 %
-PlantUML     1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Markdown     19 hrs 42 mins  ██████████████████▒░░░░░░   72.86 %
+TypeScript   2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
 ```
 
 <!--END_SECTION:waka-->
