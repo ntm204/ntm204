@@ -23,7 +23,7 @@ JavaScript   3 hrs 37 mins   ████░░░░░░░░░░░░░
 
 #### Fun Facts:
 
-* I can play the piano 🎹  
+* I can play the piano 
 * Music is a big part of my life  
 * I love photography, but somehow I always take bad photos of people 😂  
 * **Hobbies:** music, calisthenics, football, building things
