@@ -15,8 +15,8 @@ I track my weekly coding time, here’s what I’ve been up to:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML          10 hrs 12 mins  █████████████▒░░░░░░░░░░░   53.61 %
-Liquid        2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+HTML          12 hrs 12 mins  █████████████▒░░░░░░░░░░░   53.92 %
+JavaScript    3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
 ```
 
 <!--END_SECTION:waka-->
