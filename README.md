@@ -1,29 +1,43 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Soren Nguyen 🌊
 
-I’m **Minh**, a developer based in Vietnam.  
+<p align="left">
+  <!-- JavaScript - Nền tảng cốt lõi -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <!-- TypeScript - Tiêu chuẩn công nghiệp -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-I learn by building and experiment with ideas from many different sources.
+  <!-- SCSS - Kỹ năng chuyên sâu về UI -->
+  <img src="https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-When something inspires me, I turn it into a personal project and shape it in my own style.
+  <!-- UI/UX Design - Thẩm mỹ & Trải nghiệm -->
+  <img src="https://img.shields.io/badge/UI%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
 
-My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes, and vscode.
+  <!-- Technical Depth - Tư duy doanh nghiệp cần -->
+  <img src="https://img.shields.io/badge/Web%20Performance-3568A3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  
+</p>
 
-I’ve got a bunch of pinned projects, but my favorite is the [Blog App](https://github.com/...).
+My primary programming language is JavaScript, and my long-term interests focus on crafting refined, interactive web experiences through a deep understanding of core web fundamentals. I enjoy experimenting with emerging technologies and modern patterns to shape my own digital style.
 
-I track my weekly coding time, here’s what I’ve been up to:
+I hope to grow into a developer known for creating polished, thoughtful, and visually aesthetic work. I treat the web as a living laboratory—an ever-evolving space where I can stay curious and keep my skills aligned with modern standards.
+
+Beyond the editor, I find my balance at the piano, through a camera lens, or by staying active.
+
+---
+
+### Development Activity
 
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript    5 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
 Liquid        5 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
 ```
-
 <!--END_SECTION:waka-->
 
-#### Fun Facts:
+---
 
-* I can play the piano 
-* Music is a big part of my life  
-* I love photography, but somehow I always take bad photos of people 😂  
-* **Hobbies:** music, calisthenics, football, building things
+<p align="center">
+  <i>"Focus on the core, master the craft."</i>
+</p>
+
