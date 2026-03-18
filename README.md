@@ -29,10 +29,12 @@ Beyond the editor, I find my balance at the piano, through a camera lens, or by 
 ### Development Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
-TypeScript    5 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-Liquid        5 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+Liquid        8 hrs 3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+TypeScript    4 hrs 30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
