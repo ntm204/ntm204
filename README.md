@@ -31,8 +31,8 @@ Beyond the editor, I find my balance at the piano, through a camera lens, or by 
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid       5 hrs 25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-Markdown     2 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+Liquid       3 hrs 37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+CSS          3 hrs                 █████░░░░░░░░░░░░░░░░░░░░   20.06 %
 ```
 
 <!--END_SECTION:waka-->
