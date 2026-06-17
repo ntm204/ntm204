@@ -31,8 +31,8 @@ Beyond the editor, I find my balance at the piano, through a camera lens, or by 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   51 mins               ███████░░░░░░░░░░░░░░░░░░   28.37 %
-JSON         49 mins               ███████░░░░░░░░░░░░░░░░░░   27.48 %
+JavaScript   1 hr 7 mins           ████████░░░░░░░░░░░░░░░░░   31.88 %
+HTML         45 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
 ```
 
 <!--END_SECTION:waka-->
