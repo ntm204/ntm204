@@ -31,8 +31,8 @@ Beyond the editor, I find my balance at the piano, through a camera lens, or by 
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          3 hrs 6 mins          ████████▓░░░░░░░░░░░░░░░░   34.39 %
-Other        2 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+TypeScript           4 hrs 35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+CSS                  3 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.80 %
 ```
 
 <!--END_SECTION:waka-->
