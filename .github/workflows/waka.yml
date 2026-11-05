@@ -2,7 +2,6 @@ name: Waka Readme
 
 on:
   schedule:
-    # Cập nhật mỗi 2 tiếng
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
@@ -10,9 +9,13 @@ jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
+          # Keep the secret name, but store a WakaTime personal OAuth token
+          # with read_stats access here, NOT the VS Code plugin API key.
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 2
-          RANGE: this_week
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
