@@ -14,8 +14,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          # Keep the secret name, but store a WakaTime personal OAuth token
-          # with read_stats access here, NOT the VS Code plugin API key.
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
-          LANG_COUNT: 5
+          LANG_COUNT: 3
+          IGNORED_LANGUAGES: Other Text

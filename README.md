@@ -1,48 +1,9 @@
-### Soren Nguyen 🌊
+# Soren Nguyen
 
-<p align="left">
-  <!-- JavaScript - Nền tảng cốt lõi -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-  <!-- TypeScript - Tiêu chuẩn công nghiệp -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+I build web interfaces with JavaScript, TypeScript, and SCSS.
+Interested in clean UI and web performance.
 
-  <!-- SCSS - Kỹ năng chuyên sâu về UI -->
-  <img src="https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
-  <!-- UI/UX Design - Thẩm mỹ & Trải nghiệm -->
-  <img src="https://img.shields.io/badge/UI%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
-
-  <!-- Technical Depth - Tư duy doanh nghiệp cần -->
-  <img src="https://img.shields.io/badge/Web%20Performance-3568A3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  
-</p>
-
-My primary programming language is JavaScript, and my long-term interests focus on crafting refined, interactive web experiences through a deep understanding of core web fundamentals. I enjoy experimenting with emerging technologies and modern patterns to shape my own digital style.
-
-I hope to grow into a developer known for creating polished, thoughtful, and visually aesthetic work. I treat the web as a living laboratory—an ever-evolving space where I can stay curious and keep my skills aligned with modern standards.
-
-Beyond the editor, I find my balance at the piano, through a camera lens, or by staying active.
-
----
-
-### Development Activity
+## Activity (last 7 days)
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown   2 hrs 55 mins         ██████████████░░░░░░░░░░░   56.46 %
-Python     1 hr 4 mins           █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Other      46 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-HTML       18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Text       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-```
-
 <!--END_SECTION:waka-->
-
----
-
-<p align="center">
-  <i>"Focus on the core, master the craft."</i>
-</p>
-
