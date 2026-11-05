@@ -1,7 +1,8 @@
 # Soren Nguyen
 
-I build web interfaces with JavaScript, TypeScript, and SCSS.
-Interested in clean UI and web performance.
+Hi, I'm Soren. I work on websites, mostly with JavaScript.
+
+I also enjoy playing the piano, taking photos, and staying active.
 
 ## Activity (last 7 days)
 
