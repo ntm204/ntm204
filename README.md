@@ -9,9 +9,9 @@ I also enjoy playing the piano, taking photos, and staying active.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 47 mins         ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Markdown     2 hrs 38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Python       2 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+JavaScript    7 hrs 20 mins         █████████░░░░░░░░░░░░░░░░   35.85 %
+HTML          3 hrs 25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+Markdown      2 hrs 41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
 ```
 
 <!--END_SECTION:waka-->
